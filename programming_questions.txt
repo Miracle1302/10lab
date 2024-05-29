@@ -1,0 +1,5 @@
+Koshman
+Question: How to use list comprehension in Python?
+Ruban
+Answer: Honestly speaking, i don`t know?
+New question: Python or c++
